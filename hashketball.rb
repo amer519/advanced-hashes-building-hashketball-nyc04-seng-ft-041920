@@ -60,7 +60,7 @@ def game_hash
            slam_dunks: 5
          }
       ]
-  }
+  },
   
   away: {
       team_name: "Charlotte Hornets",
